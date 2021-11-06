@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp.Android/WeatherApp.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp.Android/WeatherApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+        "projectName": "WeatherApp.Android",
+        "projectPath": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp.Android/WeatherApp.Android.csproj",
+        "packagesPath": "/Users/ricardo/.nuget/packages/",
+        "outputPath": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ricardo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {
+              "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/WeatherApp.csproj": {
+                "projectPath": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/WeatherApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.1874, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/WeatherApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/WeatherApp.csproj",
+        "projectName": "WeatherApp",
+        "projectPath": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/WeatherApp.csproj",
+        "packagesPath": "/Users/ricardo/.nuget/packages/",
+        "outputPath": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ricardo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.1874, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

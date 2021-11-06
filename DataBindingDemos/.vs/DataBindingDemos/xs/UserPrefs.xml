@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FE2AA28F-4697-4AE8-B09A-4433E3ED69ED}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataBindingDemos" expanded="True">
+            <Node name="DataBindingDemos.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="values" expanded="True">
+                  <Node name="styles.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DataBindingDemos.Android PreferredExecutionTarget="Android.pixel_2_r_11_0_-_api_30" />
+</Properties>

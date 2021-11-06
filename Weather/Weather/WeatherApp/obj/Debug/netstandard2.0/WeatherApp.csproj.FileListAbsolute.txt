@@ -1,0 +1,14 @@
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.deps.json
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.dll
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.pdb
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.csproj.AssemblyReference.cache
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfo.cs
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.dll
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.pdb
+/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.sourcelink.json

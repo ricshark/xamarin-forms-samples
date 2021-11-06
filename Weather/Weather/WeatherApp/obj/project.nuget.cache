@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yj8UHXeh16NfiSA+dA2ewYm5lqts6LXdgzNwXwRuV7UvghA8Q95mMWlc8D9vBJ5sqUPMFh+iqV/R9ndpvXmtTA==",
+  "success": true,
+  "projectFilePath": "/Users/ricardo/Projects/xamarin-forms-samples-main/Weather/Weather/WeatherApp/WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ricardo/.nuget/packages/microsoft.build.tasks.git/1.0.0/microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ricardo/.nuget/packages/microsoft.sourcelink.common/1.0.0/microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "/Users/ricardo/.nuget/packages/microsoft.sourcelink.github/1.0.0/microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ricardo/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/ricardo/.nuget/packages/xamarin.forms/5.0.0.1874/xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
